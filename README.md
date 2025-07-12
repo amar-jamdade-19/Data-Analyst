@@ -7,6 +7,7 @@ Objective:
 Analyze airline passenger data to uncover insights related to flight performance, delays, passenger trends, and route optimization.
 
 Key Highlights:
+
 • Cleaned and transformed raw airline data using advanced SQL queries.
 
 • Analyzed flight delay patterns, cancellation reasons, and route-wise performance.
@@ -21,6 +22,7 @@ Objective:
 Visualize and interpret sales and customer behavior data for Blinkit (online grocery delivery service) using dynamic dashboards.
 
 Key Highlights:
+
 • Built interactive dashboards with slicers and filters for product categories, regions, and date ranges.
 
 • Conducted trend analysis on monthly revenue, top-selling products, and customer acquisition.
@@ -35,6 +37,7 @@ Objective:
 Perform exploratory data analysis and build data-driven summaries using Excel functions and pivot tables.
 
 Key Highlights:
+
 • Utilized VLOOKUP, IF statements, conditional formatting, and pivot tables.
 
 • Analyzed business KPIs such as sales performance, customer segmentation, and inventory usage.
@@ -43,6 +46,7 @@ Key Highlights:
 
 
 🔧 Skills Demonstrated
+
 • Data Cleaning & Transformation (SQL, Excel)
 
 • Data Visualization (Power BI)
